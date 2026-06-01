@@ -1,0 +1,37 @@
+# Personal and private files
+*.private
+*personal*
+*draft*
+secrets/
+.env
+.env.*
+private/
+drafts/
+notes/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors and IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Obsidian
+.obsidian/
+.trash/
+
+# Backup files
+*.bak
+*.backup
+*.tmp
+
+# Logs and credentials (just in case)
+*.log
+*.key
+*.pem
+credentials.*
